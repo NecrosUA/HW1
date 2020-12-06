@@ -1,0 +1,26 @@
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU.deps.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU.runtimeconfig.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU.runtimeconfig.dev.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/bin/Debug/netcoreapp3.1/EDU.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.csprojAssemblyReference.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.AssemblyInfoInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.AssemblyInfo.cs
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.csproj.CoreCompileInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/obj/Debug/netcoreapp3.1/EDU.genruntimeconfig.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU.deps.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU.runtimeconfig.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU.runtimeconfig.dev.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/bin/Debug/netcoreapp3.1/EDU.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.csprojAssemblyReference.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.AssemblyInfoInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.AssemblyInfo.cs
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.csproj.CoreCompileInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.genruntimeconfig.cache
