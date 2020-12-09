@@ -24,3 +24,14 @@
 /home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.dll
 /home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.pdb
 /home/rostyslav/Dropbox/my/dotNet/EDU/Math function/obj/Debug/netcoreapp3.1/EDU.genruntimeconfig.cache
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.exe
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.deps.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.runtimeconfig.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.runtimeconfig.dev.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.dll
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\bin\Debug\netcoreapp3.1\EDU.pdb
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\obj\Debug\netcoreapp3.1\EDU.csprojAssemblyReference.cache
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\obj\Debug\netcoreapp3.1\EDU.AssemblyInfoInputs.cache
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\obj\Debug\netcoreapp3.1\EDU.AssemblyInfo.cs
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\obj\Debug\netcoreapp3.1\EDU.dll
+C:\Users\necro\Dropbox\my\dotNet\EDU\Math function\obj\Debug\netcoreapp3.1\EDU.pdb

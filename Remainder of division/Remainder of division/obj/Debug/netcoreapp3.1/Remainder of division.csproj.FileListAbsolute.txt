@@ -1,0 +1,11 @@
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.exe
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.deps.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.runtimeconfig.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.runtimeconfig.dev.json
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.dll
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\bin\Debug\netcoreapp3.1\Remainder of division.pdb
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\obj\Debug\netcoreapp3.1\Remainder of division.csprojAssemblyReference.cache
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\obj\Debug\netcoreapp3.1\Remainder of division.AssemblyInfoInputs.cache
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\obj\Debug\netcoreapp3.1\Remainder of division.AssemblyInfo.cs
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\obj\Debug\netcoreapp3.1\Remainder of division.dll
+C:\Users\necro\Dropbox\my\dotNet\EDU\Remainder of division\Remainder of division\obj\Debug\netcoreapp3.1\Remainder of division.pdb

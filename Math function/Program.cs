@@ -7,7 +7,7 @@ namespace EDU
 
             static void Main(string[] args)
             {
-                int  b = 1983, c = 3, d = 20;
+                int  b = 2001, c = 3, d = 30;
                 
 
                 Console.WriteLine("Expression calc 0.1 by Kokhanchuk Rostyslav:");
@@ -20,10 +20,10 @@ namespace EDU
 
                 Console.Write("Input a please: ");
 
-                var a  = Console.ReadLine();
+                var a  = Convert.ToDouble(Console.ReadLine());
 
-                var y = (Math.Pow(Math.E,Convert.ToDouble(a)) + 4 * Math.Log(c))/Math.Sqrt(b) //((e^a+4*lg(c))/sqrt(b))
-                * Math.Abs(Math.Atan(d)) + 5/Math.Sin(Convert.ToDouble(a)); //*|arctg(d)|+5/sin(a)
+                var y = Math.Round(((Math.Pow(Math.E,a) + (4 * Math.Log10(c)))/Math.Sqrt(b)) //((e^a+4*lg(c))/sqrt(b))
+                * Math.Abs(Math.Atan(d)) + (5/Math.Sin(a)),4); //*|arctg(d)|+5/sin(a)
 
                 Console.WriteLine($"Y = {y} ");
             }

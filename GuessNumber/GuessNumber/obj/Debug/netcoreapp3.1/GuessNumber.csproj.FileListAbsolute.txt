@@ -1,0 +1,13 @@
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber.deps.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber.runtimeconfig.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber.runtimeconfig.dev.json
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/bin/Debug/netcoreapp3.1/GuessNumber.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.csprojAssemblyReference.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.AssemblyInfoInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.AssemblyInfo.cs
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.csproj.CoreCompileInputs.cache
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.dll
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.pdb
+/home/rostyslav/Dropbox/my/dotNet/EDU/GuessNumber/GuessNumber/obj/Debug/netcoreapp3.1/GuessNumber.genruntimeconfig.cache
